@@ -2,7 +2,7 @@
 
 # Getting started
 
-Welcome at the getting started with [Utrecht University GitHub organization page](https://github.com/UtrechtUniversity). A GitHub organization is a shared account where members (UU employees) can manage their projects using their personal GitHub account. The UtrechtUniversity Github organization is meant for storing, managing and publishing research projects. Below you will find instructions for connecting to the organization and general usage instructions for the organization. See the bottom of the page for course documentation on starting with using Git for version control.
+Welcome to the getting started with [Utrecht University GitHub organization page](https://github.com/UtrechtUniversity). A GitHub organization is a shared account where members (UU employees) can manage their projects using their personal GitHub account. The UtrechtUniversity Github organization is meant for storing, managing and publishing research projects. Below you will find instructions for connecting to the organization and general usage instructions for the organization. See the bottom of the page for resources to get started with using Git for version control.
 
 For best practices, see [Best Practices for Git @UtrechtUniversity](https://github.com/UtrechtUniversity/best-practices).
 
@@ -15,7 +15,7 @@ You can connect to the Utrecht University GitHub organization when you are an UU
 1. [Create a personal GitHub account](https://github.com/join) (not necessary if you already have a GitHub account)
 2. Login to your personal GitHub account
 3. **[Connect to the organization](https://github.com/orgs/UtrechtUniversity/sso) (one time only)**
-4. Authenticate using your solis ID. This will make you a member of the organization and gives you permissions to create repositories and teams.
+4. Authenticate using your Solis ID. This will make you a member of the organization and gives you permissions to create repositories and teams.
 5. Go to [https://github.com/UtrechtUniversity](https://github.com/UtrechtUniversity) and start working. 
 
 **Command line access**  
@@ -38,7 +38,7 @@ This GitHub organization is in principle meant for managing source code. However
 
 ### Work responsible
 Be aware of the general UU [user regulations](https://intranet.uu.nl/en/security/information-security-policy-and-regulations) for ICT platforms, and [security best practices for GitHub](./docs/security-best-practices.md).
-If you are a Git novice make sure to learn the [basics of Git version control](#learning-git) first in order to manage your projects in a responsible way. Typical dangers include: **publishing data that should not be published or publishing passwords**. Make sure you learn how to tell git which files should and should not be tracked, especially if you work with any kind of sensitive data. Besides, be aware that if you (or any of your collaborators) have authorized any third party applications, these applications are probably able to view data in your private repositories. Read the [security best practices](./docs/security-best-practices.md) for more tips.    
+If you are a Git novice make sure to learn the [basics of Git version control](#learning-git) first in order to manage your projects in a responsible way. Typical dangers include: **publishing data that should not be published or publishing passwords**. Make sure you learn how to tell Git which files should and should not be tracked, especially if you work with any kind of sensitive data. Besides, be aware that if you (or any of your collaborators) have authorized any third-party applications, these applications are probably able to view data in your private repositories. Read the [security best practices](./docs/security-best-practices.md) for more tips.    
 The Suitability level for this GitHub organization can be found in the Service Description on Intranet.
 
 ### Copyrighted materials
@@ -48,24 +48,24 @@ Contact the [Copyright Information Office](https://www.uu.nl/en/organisation/cop
 ## Resources
 
 ### Creating Repositories
-As soon as you have authenticated with solisID using the steps outlined above you will have permission to create Repositories in the [UU GitHub organization](https://github.com/UtrechtUniversity). View [GitHub Documentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) for instructions on how to create a repository.
+As soon as you have authenticated with your SolisID using the steps outlined above you will have permission to create Repositories in the [UU GitHub organization](https://github.com/UtrechtUniversity). View [GitHub Documentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) for instructions on how to create a repository.
 
 ### Creating Teams
-Create teams to organize your team or project repositories. As soon as you have authenticated with solisID using the steps outlined above you will have permission to create teams in the [UU GitHub organization](https://github.com/UtrechtUniversity). View [GitHub Documentation](https://docs.github.com/en/organizations/organizing-members-into-teams) for instructions on how to create a team. Invite your team as a collaborator on a repository to make the repository appear on the Team overview page. 
+Create teams to organize your team or project repositories. As soon as you have authenticated with your SolisID using the steps outlined above you will have permission to create teams in the [UU GitHub organization](https://github.com/UtrechtUniversity). View [GitHub Documentation](https://docs.github.com/en/organizations/organizing-members-into-teams) for instructions on how to create a team. Invite your team as a collaborator on a repository to make the repository appear on the Team overview page. 
 
 ### Inviting colleagues
-When you create a repository or team, you will automatically have permission to invite collaborators. When you [invite](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team) a UU colleague to a team they will automatically receive an invitation to join the UU github organization. When you want to invite a UU colleague to a repository without using GitHub teams, the colleague should first become a member of the organization via the Getting Started steps above. When your colleague is a member you can invite your colleague to collaborate on repositories. 
+When you create a repository or team, you will automatically have permission to invite collaborators. When you [invite](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team) a UU colleague to a team they will automatically receive an invitation to join the UU GitHub organization. When you want to invite a UU colleague to a repository without using GitHub teams, the colleague should first become a member of the organization via the Getting Started steps above. When your colleague is a member you can invite your colleague to collaborate on repositories. 
 
 ### Inviting external collaborators
 Invite non-UU collaborators or UU students as outside collaborator to repositories: [GitHub Documentation](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization). Be responsible on inviting outside collaborators. Only invite them to repositories they need access to. 
 
 ### Transferring existing repositories to UtrechtUniversity
-Migrate a repository to the UU Github organization by mirroring the repository ([instructions](https://docs.github.com/en/enterprise-server@3.1/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository#mirroring-a-repository)). :warning: Do NOT use the "Transfer ownership" option in your repository settings to transfer a repository to UtrechtUniversity as you will lose admin rights for the repository. 
+Migrate a repository to the UU GitHub organization by mirroring the repository ([instructions](https://docs.github.com/en/enterprise-server@3.1/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository#mirroring-a-repository)). :warning: Do NOT use the "Transfer ownership" option in your repository settings to transfer a repository to UtrechtUniversity as you will lose admin rights for the repository. 
 
 ### GitHub actions limits
-GitHub Actions minutes and storage are unlimited for public repositories. Whenever possible use public repositories if you are using GitHub Actions. There are monthly limits for using GitHub actions in private repos on an organization level. **If this limit is reached GitHub action minutes will be disabled for private repos for the remaining part of the month**.
+GitHub Actions minutes and storage are unlimited for public repositories. Whenever possible, use public repositories if you are using GitHub Actions. There are monthly limits for using GitHub actions in private repos on an organization level. **If this limit is reached GitHub action minutes will be disabled for private repos for the remaining part of the month**.
 
-### GitHub apps and Third party access
+### GitHub apps and Third-party access
 The following applications are approved for usage in the Organization:  
 
 - [Zenodo](https://zenodo.org/)
@@ -83,7 +83,7 @@ If you need any other applications, submit a request via [Topdesk](https://uu.to
 ## Learning Git
 
 Using Git version control is key in the Open Science paradigm and helps managing versions of files, collaboration and publication.
-A git novice should invest some time to get acquainted with the way of working. Typically a one day course will get you started.
+A Git novice should invest some time to get acquainted with the way of working. Typically a one day course will get you started.
 
 Resources:  
 [Software carpentries course documentation](http://swcarpentry.github.io/git-novice/)  
