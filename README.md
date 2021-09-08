@@ -10,7 +10,7 @@ For best practices, see [Best Practices for Git @UtrechtUniversity](https://gith
 
 You can connect to the Utrecht University GitHub organization when you are an UU employee only. Connect using your personal existing GitHub account. During this proces you will have to authenticate via your SolisID. The aim of this is to get access to the organization, however after access you will still be working under your personal GitHub account. By using your personal GitHub account all your contributions in different organizations and personal repositories can be displayed on your personal profile page which is your Github CV.
 
-**Quick start**
+### Quick start
 
 1. [Create a personal GitHub account](https://github.com/join) (not necessary if you already have a GitHub account)
 2. Login to your personal GitHub account
@@ -18,13 +18,13 @@ You can connect to the Utrecht University GitHub organization when you are an UU
 4. Authenticate using your Solis ID. This will make you a member of the organization and gives you permissions to create repositories and teams.
 5. Go to [https://github.com/UtrechtUniversity](https://github.com/UtrechtUniversity) and start working. 
 
-**Command line access**  
+### Command line access
 When you use the command line (terminal or Git Bash) to interact with GitHub it is also important to at least 1 time authenticate via [Single Sign-on](https://github.com/orgs/UtrechtUniversity/sso). From the command line you will probably make use of an SSH key or a Personal Access Token. These keys have to be authorized to be used for the GitHub organization UtrechtUniversity. See the following instructions:
 
-- SSH access
-  [Creating an SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+- SSH access  
+  [Creating an SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)  
   [Authorizing SSH key for usage in the UU organization](https://docs.github.com/en/github/authenticating-to-github/authorizing-an-ssh-key-for-use-with-saml-single-sign-on)
-- PAT access
+- PAT access  
   [Authorizing Personal Access Token for usage in the UU organization](https://docs.github.com/en/github/authenticating-to-github/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on)
 
 
