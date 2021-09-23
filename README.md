@@ -41,6 +41,12 @@ Be aware of the general UU [user regulations](https://intranet.uu.nl/en/security
 If you are a Git novice make sure to learn the [basics of Git version control](#learning-git) first in order to manage your projects in a responsible way. Typical dangers include: **publishing data that should not be published or publishing passwords**. Make sure you learn how to tell Git which files should and should not be tracked, especially if you work with any kind of sensitive data. Besides, be aware that if you (or any of your collaborators) have authorized any third-party applications, these applications are probably able to view data in your private repositories. Read the [security best practices](./docs/security-best-practices.md) for more tips.    
 The Suitability level for this GitHub organization can be found in the Service Description on Intranet.
 
+### GitHub Pages
+Use GitHub Pages to promote research projects, e.g. by publishing a project website. For design purposes, is OK to use a UU logo. However, do not use any other design formats that relate to the University website (uu.nl).
+
+### Repository naming conventions
+Use repository names that are descriptive for the project. Don't use names that are in some way ambiguous, especially when they relate to law or policy (so e.g. repository names containing "policy" or "terms"). We reserve the right to rename repositories with ambiguous names. When in doubt [contact us](https://github.com/UtrechtUniversity/getting-started#contact).
+
 ### Copyrighted materials
 Contact the [Copyright Information Office](https://www.uu.nl/en/organisation/copyright-information-office) if you have questions regarding working with copyrighted contents.
 
