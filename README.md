@@ -34,12 +34,14 @@ When you use the command line (terminal or Git Bash) to interact with GitHub it 
 Use this organization for research projects (or other UU-related work). Don't use this organization for exercises or personal activities.
 
 ### Code and non-sensitive data
-This GitHub organization is in principle meant for managing source code. However, it is sometimes used for version control of documents or small sized, non-sensitive datasets. For research data, make sure that you create a data management plan first, and choose an [appropriate storage solution](https://www.uu.nl/en/research/research-data-management/tools-services/tools-for-storing-and-managing-data/storage-solutions).
+This GitHub organization is meant for managing source code. GitHub is not suited to store datasets with personal and/or sensitive data. However, it is sometimes used for version control of documents or small sized, non-sensitive datasets. For research data, make sure that you create a data management plan first, and choose an [appropriate storage solution](https://www.uu.nl/en/research/research-data-management/tools-services/tools-for-storing-and-managing-data/storage-solutions).
 
 ### Work responsible
 Be aware of the general UU [user regulations](https://intranet.uu.nl/en/security/information-security-policy-and-regulations) for ICT platforms, and [security best practices for GitHub](./docs/security-best-practices.md).
-If you are a Git novice make sure to learn the [basics of Git version control](#learning-git) first in order to manage your projects in a responsible way. Typical dangers include: **publishing data that should not be published or publishing passwords**. Make sure you learn how to tell Git which files should and should not be tracked, especially if you work with any kind of sensitive data. Besides, be aware that if you (or any of your collaborators) have authorized any third-party applications, these applications are probably able to view data in your private repositories. Read the [security best practices](./docs/security-best-practices.md) for more tips.    
-The Suitability level for this GitHub organization can be found in the Service Description on Intranet.
+If you are a Git novice make sure to learn the [basics of Git version control](#learning-git) first in order to manage your projects in a responsible way. Typical dangers include: **publishing data that should not be published or publishing passwords**. Make sure you learn how to tell Git which files should and should not be tracked, especially if you work with any kind of sensitive data. Besides, be aware that if you (or any of your collaborators) have authorized any third-party applications, these applications are probably able to view data in your private repositories. 
+- Read the [security best practices](./docs/security-best-practices.md) for more tips.    
+- The Suitability level for this GitHub organization can be found in the Service Description on Intranet.  
+- More about GitHub and GDPR compliance: [GitHub Data Protection Agreement](https://docs.github.com/en/github/site-policy/github-data-protection-agreement#attachment3) and [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
 
 ### GitHub Pages
 Use GitHub Pages to promote research projects, e.g. by publishing a project website. For design purposes, is OK to use a UU logo. However, do not use any other design formats that relate to the University website (uu.nl).
