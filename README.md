@@ -14,9 +14,10 @@ You can connect to the Utrecht University GitHub organization when you are an UU
 
 1. [Create a personal GitHub account](https://github.com/join) (not necessary if you already have a GitHub account)
 2. Login to your personal GitHub account
-3. **[Connect to the organization](https://github.com/orgs/UtrechtUniversity/sso) (one time only)**
-4. Authenticate using your Solis ID. This will make you a member of the organization and gives you permissions to create repositories and teams.
-5. Go to [https://github.com/UtrechtUniversity](https://github.com/UtrechtUniversity) and start working. 
+3. [Configure two-factor authentication for your GitHub account](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+4. **[Connect to the organization](https://github.com/orgs/UtrechtUniversity/sso) (one time only)**
+5. Authenticate using your Solis ID. This will make you a member of the organization and gives you permissions to create repositories and teams.
+6. Go to [https://github.com/UtrechtUniversity](https://github.com/UtrechtUniversity) and start working. 
 
 ### Command line access
 When you use the command line (terminal or Git Bash) to interact with GitHub it is also important to at least 1 time authenticate via [Single Sign-on](https://github.com/orgs/UtrechtUniversity/sso). From the command line you will probably make use of an SSH key or a Personal Access Token. These keys have to be authorized to be used for the GitHub organization UtrechtUniversity. See the following instructions:
