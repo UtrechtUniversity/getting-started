@@ -20,7 +20,8 @@ You can connect to the Utrecht University GitHub organization when you are an UU
 6. Go to [https://github.com/UtrechtUniversity](https://github.com/UtrechtUniversity) and start working. 
 
 ### Command line access
-When you use the command line (terminal or Git Bash) to interact with GitHub it is also important to at least 1 time authenticate via [Single Sign-on](https://github.com/orgs/UtrechtUniversity/sso). From the command line you will probably make use of an SSH key or a Personal Access Token. These keys have to be authorized to be used for the GitHub organization UtrechtUniversity. See the following instructions:
+To get access to the organization, authenticate one time using [Single Sign-on](https://github.com/orgs/UtrechtUniversity/sso).  
+Use an SSH key or a Personal Access Token to access your resources from the command line. These keys have to be authorized to be used for the GitHub organization UtrechtUniversity. See the following instructions:
 
 - SSH access  
   [Creating an SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)  
@@ -28,6 +29,7 @@ When you use the command line (terminal or Git Bash) to interact with GitHub it 
 - PAT access  
   [Authorizing Personal Access Token for usage in the UU organization](https://docs.github.com/en/github/authenticating-to-github/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on)
 
+> :warning: After switching on 2FA for your GitHub account, you cannot connect to your remote repositories using HTTPS URLs in combination with your GitHub password anymore. Use an SSH key or a PAT, see [Using two-factor authentication with the command line](https://docs.github.com/en/enterprise-server@3.0/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication#using-two-factor-authentication-with-the-command-line)
 
 ## Usage
 
@@ -69,7 +71,8 @@ When you create a repository or team, you will automatically have permission to 
 Invite non-UU collaborators or UU students as outside collaborator to repositories: [GitHub Documentation](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization). Be responsible on inviting outside collaborators. Only invite them to repositories they need access to. 
 
 ### Transferring existing repositories to UtrechtUniversity
-Migrate a repository to the UU GitHub organization by mirroring the repository ([instructions](https://docs.github.com/en/enterprise-server@3.1/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository#mirroring-a-repository)). :warning: Do NOT use the "Transfer ownership" option in your repository settings to transfer a repository to UtrechtUniversity as you will lose admin rights for the repository. 
+Migrate a repository to the UU GitHub organization by mirroring the repository ([instructions](https://docs.github.com/en/enterprise-server@3.1/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository#mirroring-a-repository)). 
+> :warning: Do NOT use the "Transfer ownership" option in your repository settings to transfer a repository to UtrechtUniversity as you will lose admin rights for the repository. 
 
 ### GitHub actions limits
 GitHub Actions minutes and storage are unlimited for public repositories. Whenever possible, use public repositories if you are using GitHub Actions. There are monthly limits for using GitHub actions in private repos on an organization level. **If this limit is reached GitHub action minutes will be disabled for private repos for the remaining part of the month**.
