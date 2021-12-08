@@ -75,7 +75,7 @@ When you create a repository or team, you will automatically have permission to 
 Invite non-UU collaborators or UU students as outside collaborator to repositories: [GitHub Documentation](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization). Be responsible on inviting outside collaborators. Only invite them to repositories they need access to. 
 
 ### Transferring existing repositories to UtrechtUniversity
-Migrate a repository to the UU GitHub organization by mirroring the repository ([instructions](https://docs.github.com/en/enterprise-server@3.1/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/duplicating-a-repository#mirroring-a-repository)). 
+Migrate a repository to the UU GitHub organization by [mirroring the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository). 
 > :warning: Do NOT use the "Transfer ownership" option in your repository settings to transfer a repository to UtrechtUniversity as you will lose admin rights for the repository. 
 
 ### GitHub actions limits
