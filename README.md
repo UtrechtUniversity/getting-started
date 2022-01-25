@@ -51,7 +51,7 @@ If you are a Git novice make sure to learn the [basics of Git version control](#
 - More about GitHub and GDPR compliance: [GitHub Data Protection Agreement](https://docs.github.com/en/github/site-policy/github-data-protection-agreement#attachment3) and [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
 
 ### GitHub Pages
-Use GitHub Pages to promote research projects, e.g. by publishing a project website. For design purposes, is OK to use a UU logo. However, do not use any other design formats that relate to the University website (uu.nl).
+Use GitHub Pages to promote research projects, e.g. by publishing a project website. For design purposes, it is OK to use a UU logo. However, do not use any other design formats that relate to the University website (uu.nl).
 
 ### Repository naming conventions
 Use repository names that are descriptive for the project. Don't use names that are in some way ambiguous, especially when they relate to law or policy (so e.g. repository names containing "policy" or "terms"). We reserve the right to rename repositories with ambiguous names. When in doubt [contact us](https://github.com/UtrechtUniversity/getting-started#contact).
@@ -94,7 +94,7 @@ The following applications are approved for usage in the Organization:
 
 Activation of these apps for your repositories differs per application. [View instructions](docs/third-party-applications.md).
 
-If you need any other applications, submit a request via [Topdesk](https://uu.topdesk.net)
+If you need any other applications, submit an [Issue](https://github.com/UtrechtUniversity/getting-started/issues/new)
 
 ## Learning Git
 
@@ -111,9 +111,9 @@ Courses:
 We are very happy with any suggestions or contributions to improve the contents. The aim of this Repository is to help UU employees getting started with the Utrecht University GitHub organization. Read the contributing [guidelines](/CONTRIBUTING.md).
 
 ## License
-
 The content in this repository is licensed [CC0-1.0](/LICENSE) (release to the public domain).
 
 ## Contact
-its.ris@uu.nl
+Do you need help or have any other requests? Submit an [Issue](https://github.com/UtrechtUniversity/getting-started/issues/new) 
+or send an email: its.ris@uu.nl
 
