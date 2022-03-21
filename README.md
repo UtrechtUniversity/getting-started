@@ -43,7 +43,7 @@ Use this organization for research projects (or other UU-related work). Don't us
 ### Code and non-sensitive data
 This GitHub organization is meant for managing source code. GitHub is not suited to store datasets with personal and/or sensitive data. However, it is sometimes used for version control of documents or small sized, non-sensitive datasets. For research data, make sure that you create a data management plan first, and choose an [appropriate storage solution](https://www.uu.nl/en/research/research-data-management/tools-services/tools-for-storing-and-managing-data/storage-solutions).
 
-### Work responsible
+### Work responsibly
 Be aware of the general UU [user regulations](https://intranet.uu.nl/en/security/information-security-policy-and-regulations) for ICT platforms, and [security best practices for GitHub](./docs/security-best-practices.md).
 If you are a Git novice make sure to learn the [basics of Git version control](#learning-git) first in order to manage your projects in a responsible way. Typical dangers include: **publishing data that should not be published or publishing passwords**. Make sure you learn how to tell Git which files should and should not be tracked, especially if you work with any kind of sensitive data. Besides, be aware that if you (or any of your collaborators) have authorized any third-party applications, these applications are probably able to view data in your private repositories. 
 - Read the [security best practices](./docs/security-best-practices.md) for more tips.    
