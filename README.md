@@ -56,7 +56,10 @@ Use GitHub Pages to promote research projects, e.g. by publishing a project webs
 ### Repository naming conventions
 Use repository names that are descriptive for the project. Don't use names that are in some way ambiguous, especially when they relate to law or policy (so e.g. repository names containing "policy" or "terms"). We reserve the right to rename repositories with ambiguous names. When in doubt [contact us](https://github.com/UtrechtUniversity/getting-started#contact).
 
-### Copyrighted materials
+### Licensing and Copyrighted materials
+
+Add a license to your work, this defines the rules for people who want to use your code/software. If you reuse licensed software, make sure that the license you choose is compatible with the license of the reused software. [Choosing a license](https://choosealicense.com/).
+
 Contact the [Copyright Information Office](https://www.uu.nl/en/organisation/copyright-information-office) if you have questions regarding working with copyrighted contents.
 
 
