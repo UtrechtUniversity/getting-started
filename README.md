@@ -39,7 +39,7 @@ Use an SSH key or a Personal Access Token to access your resources from the comm
 Use this organization for research projects or other UU-related work. Do not use this organization for exercises or personal activities.
 
 ### Code and non-sensitive data
-This GitHub organization is meant for managing source code. GitHub is not suited to store datasets with personal data or sensitive data exceeding the security level of this GitHub organization. However, it may be used for version control of documents or small-sized datasets. For research data, make sure that you create a data management plan first, and choose an [appropriate storage solution](https://www.uu.nl/en/research/research-data-management/tools-services/tools-for-storing-and-managing-data/storage-solutions). For  other objects, you could use the [Tooladvisor](https://tools.uu.nl/tooladvisor/).
+This GitHub organization is meant for managing source code. GitHub is not suited to store datasets with personal data or sensitive data exceeding the security level of this GitHub organization. However, it may be used for version control of documents or small-sized datasets. For research data, make sure that you create a data management plan first, and choose an [appropriate storage solution](https://www.uu.nl/en/research/research-data-management/tools-services/tools-for-storing-and-managing-data/storage-solutions). For other objects, you could use the [Tooladvisor](https://tools.uu.nl/tooladvisor/).
 
 ### Work responsibly
 Be aware of the general university's [user regulations](https://intranet.uu.nl/en/security/information-security-policy-and-regulations) for ICT platforms, and [security best practices for GitHub](./docs/security-best-practices.md).
