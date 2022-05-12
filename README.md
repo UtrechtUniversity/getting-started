@@ -8,7 +8,7 @@ For best practices, see [Best Practices for Git @UtrechtUniversity](https://gith
 
 ## First time connecting to the GitHub organization
 
-Membership of the Utrecht University GitHub organization, including access to internal repositories, is restricted to employees of Utrecht University (UU). You can use your existing personal GitHub account; if you do not have an account yet, please create one. During this process, you will have to authenticate your personal GitHub account by using your Solis-id. Your Solis-id is merely used to verify your employee status; all commits and actions performed in GitHub will be attributed to your personal GitHub account. By using one GitHub account, your GitHub profile page (which can be used as your curriculum vitae) will not only show your contributions in repositories belonging to this GitHub organization, but contributions in different GitHub organizations or personal repositories as well.
+Membership of the Utrecht University GitHub organization, including access to internal repositories, is restricted to employees of Utrecht University (UU). Become a member using your existing personal GitHub account; if you do not have an account yet, please create one. During this process, you will have to authenticate for this GitHub organization using your Solis-id. Your Solis-id is merely used to verify your employee status; all commits and actions performed in GitHub will be attributed to your personal GitHub account. By using one GitHub account, your GitHub profile page (which can be used as your curriculum vitae) will not only show your contributions in repositories belonging to this GitHub organization, but contributions in different GitHub organizations or personal repositories as well.
 
 ### Quick start
 
@@ -36,10 +36,10 @@ Use an SSH key or a Personal Access Token to access your resources from the comm
 ## Usage
 
 ### Platform for research and UU projects 
-Use this organization for research projects or other UU-related work. Do not use this organization for exercises or personal activities.
+Use this GitHub organization for research projects or other UU-related work. Do not use this organization for exercises or personal activities.
 
 ### Code and non-sensitive data
-This GitHub organization is meant for managing source code. GitHub is not suited to store datasets with personal data or sensitive data exceeding the security level of this GitHub organization. However, it may be used for version control of documents or small-sized datasets. For research data, make sure that you create a data management plan first, and choose an [appropriate storage solution](https://www.uu.nl/en/research/research-data-management/tools-services/tools-for-storing-and-managing-data/storage-solutions). For other objects, you could use the [Tooladvisor](https://tools.uu.nl/tooladvisor/).
+This GitHub organization is meant for managing source code. Using this GitHub organization is not recommended for storing datasets with personal or sensitive data (feel free to [contact us](https://github.com/UtrechtUniversity/getting-started#contact) for advice), for alternatives you can consult the [Tooladvisor](https://tools.uu.nl/tooladvisor/). However, it may be used for version control of documents or small-sized datasets. For research data, make sure that you create a data management plan first, and choose an [appropriate storage solution](https://www.uu.nl/en/research/research-data-management/tools-services/tools-for-storing-and-managing-data/storage-solutions). 
 
 ### Work responsibly
 Be aware of the general university's [user regulations](https://intranet.uu.nl/en/security/information-security-policy-and-regulations) for ICT platforms, and [security best practices for GitHub](./docs/security-best-practices.md).
