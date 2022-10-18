@@ -14,7 +14,8 @@ Membership of the Utrecht University GitHub organization, including access to in
 
 1. [Create a personal GitHub account](https://github.com/join) (not necessary if you already have a GitHub account)
 2. Login to your personal GitHub account
-3. [Configure two-factor authentication for your GitHub account](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+3. [Configure two-factor authentication for your GitHub account](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)  
+   See [below](https://github.com/UtrechtUniversity/getting-started#command-line-and-rstudio-access) how to retain direct access to your repositories after switching on 2FA.
 4. **[Connect to the organization](https://github.com/orgs/UtrechtUniversity/sso) (one-time only)**
 5. Authenticate using your Solis-id. This will make you a member of the organization and grants you permission to create repositories and teams.
 6. Go to [https://github.com/UtrechtUniversity](https://github.com/UtrechtUniversity) and start working!
@@ -24,11 +25,12 @@ To get initial access to the organization, follow the steps above.
 
 > :warning: After turning on two-factor authentication for your personal GitHub account, you cannot connect to your remote repositories using HTTPS URLs in combination with your GitHub password anymore. You will need to configure an 'SSH key' or a 'Personal Access Token' instead. This is a one-time action. After that your interaction with GitHub will be as before.
 
-Use an SSH key or a Personal Access Token to access your resources from the command line or from RStudio, see [Using two-factor authentication with the command line](https://docs.github.com/en/enterprise-server@3.0/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication#using-two-factor-authentication-with-the-command-line). These keys have to be authorized to be used for [the GitHub organization UtrechtUniversity](https://github.com/UtrechtUniversity). See the following instructions:
+Use an SSH key or a Personal Access Token to access your resources from the command line or from RStudio, see [Using two-factor authentication with the command line](https://docs.github.com/en/enterprise-server@3.0/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication#using-two-factor-authentication-with-the-command-line). These keys have to be authorized to be used for [the GitHub organization UtrechtUniversity](https://github.com/UtrechtUniversity). When using an SSH key, you will need to change remote URLs in your repositories from HTTPS to SSH format. When using a PAT, you can continue using HTTPS URLs. See the following instructions:
 
 - SSH access  
   [Creating an SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)  
-  [Authorizing SSH key for usage in the UU organization](https://docs.github.com/en/github/authenticating-to-github/authorizing-an-ssh-key-for-use-with-saml-single-sign-on)
+  [Authorizing SSH key for usage in the UU organization](https://docs.github.com/en/github/authenticating-to-github/authorizing-an-ssh-key-for-use-with-saml-single-sign-on)  
+  [Change the remote URLs of any existing repositories from HTTPS to SSH](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories?platform=windows#switching-remote-urls-from-https-to-ssh)
 - PAT access  
   [Authorizing Personal Access Token for usage in the UU organization](https://docs.github.com/en/github/authenticating-to-github/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on)  
   [Personal Access Token for RStudio and GitHub](https://happygitwithr.com/https-pat.html)
