@@ -104,7 +104,8 @@ Using Git version control is key in the Open Science paradigm and helps managing
 A Git novice should invest some time to get familiar with the way of working. A one-day course will get you started.
 
 Resources:
-- [Software carpentries course documentation](http://swcarpentry.github.io/git-novice/)  
+- [Software carpentries course documentation](https://swcarpentry.github.io/git-novice/)
+- [GitHub Skills](https://skills.github.com)
 
 Courses:  
 - [Best practices for writing reproducible code](https://www.uu.nl/en/research/research-data-management/training-workshops/best-practices-for-writing-reproducible-code)
