@@ -14,7 +14,7 @@ Membership of the Utrecht University GitHub organization, including access to in
 
 1. [Create a personal GitHub account](https://github.com/join) (not necessary if you already have a GitHub account)
 2. Login to your personal GitHub account
-3. [Configure two-factor authentication for your GitHub account](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)  
+3. [Configure two-factor authentication for your GitHub account](https://github.com/settings/security)  
    See [below](https://github.com/UtrechtUniversity/getting-started#command-line-and-rstudio-access) how to retain direct access to your repositories after switching on 2FA.
 4. **[Connect to the organization](https://github.com/orgs/UtrechtUniversity/sso) (one-time only)**
 5. Authenticate using your Solis-id. This will make you a member of the organization and grants you permission to create repositories and teams.
