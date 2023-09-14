@@ -1,5 +1,5 @@
 As a researcher you might be interested in this github thing you have been hearing so much about.
-This article outlines what benefits you might reap in the short and long term, what challenges you may face, and what to expect from the adoption of github.
+This article outlines what benefits you might get in the short and long term, what challenges you may face, and what to expect from the adoption of GitHub.
 While primarily used for code storage and version control, GitHub offers many more features.
 Based on both the experiences of other researchers and people in industry, you might be able to draw inspiration on how you might incorporate github into your research workflow.
 
