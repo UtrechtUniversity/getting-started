@@ -59,5 +59,4 @@ You can add members from the team members tab. In order to add a member, they mu
 
 - A team can have subteams, but generally speaking it is advised to keep the structure as simple as possible and not to introduce hierarchies where they are not necessary
 - Repositories can be completely private from the outside world, but in the interest of open science, they really should not be
-- Within a team you can start forum-like discussions. This is a good place to ask if anybody knows how to perform a certain operation as the answer will be perserved and if anyone in the future then ends up needing the same information it can be searched for and found
 - For questions and problems related directly to a repository, it is best ot make an issue on the repository level, not the team level
