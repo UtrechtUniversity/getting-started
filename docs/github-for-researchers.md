@@ -2,7 +2,6 @@ As a researcher you might be interested in this GitHub thing you have been heari
 This article outlines what benefits you might get in the short and long term, what challenges you may face, and what to expect from the adoption of GitHub.
 RDM support published a short video about GitHub @UtrechtUniversity
 [![Watch the video](https://img.youtube.com/vi/qXfbnz2id8A/0.jpg)](https://www.youtube.com/watch?v=qXfbnz2id8A)
-Based on both the experiences of other researchers and people in industry, you might be able to draw inspiration on how you might incorporate github into your research workflow.
 
 # Table of contents
 
