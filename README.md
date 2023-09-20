@@ -68,7 +68,7 @@ Be sure to add a license to your work, since the license defines the rules for p
 As soon as you have authenticated with your Solis-id using the steps outlined above, you are granted permission to create repositories in the [Utrecht University GitHub organization](https://github.com/UtrechtUniversity). View [GitHub documentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) for instructions on how to create a repository.
 
 ### Creating teams
-Create teams to organize your team or project repositories. As soon as you have authenticated with your Solis-id using the steps outlined above, you will be able to create teams in the [Utrecht University GitHub organization](https://github.com/UtrechtUniversity). View [GitHub documentation](https://docs.github.com/en/organizations/organizing-members-into-teams) for instructions on how to create a team. Invite your team as a collaborator on a repository to make the repository appear on the Team overview page. 
+Create teams to organize your team or project repositories. As soon as you have authenticated with your Solis-id using the steps outlined above, you will be able to create teams in the [Utrecht University GitHub organization](https://github.com/UtrechtUniversity). View [GitHub documentation](https://docs.github.com/en/organizations/organizing-members-into-teams) for instructions on how to create a team. [More info about managing your team in the UU GitHub Organization](docs/managing-your-team.md)
 
 ### Inviting colleagues
 When you create a repository or team, you will automatically have permission to invite collaborators. When you [invite](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team) a colleague to a team, they will automatically receive an invitation to join the Utrecht University GitHub organization. When you want to invite a colleague to a repository without using GitHub teams, the colleague should first become a member of the GitHub organization via the Getting Started steps above. If your colleague is a member, you can invite your colleague to collaborate on repositories. 
@@ -104,8 +104,11 @@ Using Git version control is key in the Open Science paradigm and helps managing
 A Git novice should invest some time to get familiar with the way of working. A one-day course will get you started.
 
 Resources:
-- [Software carpentries course documentation](https://swcarpentry.github.io/git-novice/)
+- [Introduction to Git and GitHub using GitHub Desktop](https://zenodo.org/record/8232705) (by the [Geo Data team](https://geo-data-support.sites.uu.nl/))
+- [Introduction to Git and GitHub using command line](https://swcarpentry.github.io/git-novice/) (by Software Carpentries)
+- [Introduction to the GitHub Webinterface](docs/web-interface.md)
 - [GitHub Skills](https://skills.github.com)
+- [Managing your team on UU GitHub](docs/managing-your-team.md)
 
 Courses:  
 - [Best practices for writing reproducible code](https://www.uu.nl/en/research/research-data-management/training-workshops/best-practices-for-writing-reproducible-code)
