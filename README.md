@@ -18,7 +18,7 @@ Membership of the Utrecht University GitHub organization, including access to in
    See [below](https://github.com/UtrechtUniversity/getting-started#command-line-and-rstudio-access) how to retain direct access to your repositories after switching on 2FA.
 4. **[Connect to the organization](https://github.com/orgs/UtrechtUniversity/sso) (one-time only)**
 5. Authenticate using your Solis-id. This will make you a member of the organization and grants you permission to create repositories and teams.
-6. Go to [https://github.com/UtrechtUniversity](https://github.com/UtrechtUniversity) and start working!
+6. Go to [https://github.com/UtrechtUniversity](https://github.com/UtrechtUniversity), consider make your [UU membership public](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership) so people can find you and start working!
 
 ### Command line and RStudio access
 To get initial access to the organization, follow the steps above.
