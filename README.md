@@ -49,7 +49,7 @@ Be aware of the general university's [user regulations](https://intranet.uu.nl/e
 If you are a Git novice, make sure to learn the [basics of Git version control](#learning-git) first in order to manage your projects properly. Typical dangers include **publishing data that should not be published or publishing passwords**. Make sure you learn how to tell Git which files should and should not be tracked, especially if you work with any kind of sensitive data. Finally, be aware that if you (or any of your collaborators) have authorized any third-party applications, these applications may be able to view data in your private repositories. 
 - Read the [security best practices](./docs/security-best-practices.md) for more tips.    
 - The security (suitability) level for this GitHub organization can be found in the Service Description on Intranet.  
-- More about GitHub and GDPR compliance: [GitHub Data Protection Agreement](https://docs.github.com/en/github/site-policy/github-data-protection-agreement#attachment3) and [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
+- More about GitHub and GDPR compliance: [GitHub Data Protection Agreement](https://github.com/customer-terms/github-data-protection-agreement) and [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
 
 ### GitHub Pages
 You can use GitHub Pages to promote research projects, for example, by publishing a project website. For design purposes, it is OK to use a UU logo. However, do not use any other design formats that relate to the university's corporate website ([uu.nl](https://www.uu.nl))
